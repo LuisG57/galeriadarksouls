@@ -1,2 +1,3 @@
 # galeriadarksouls
-presentación 2do parcial Luis Guzman 20209202
+presentación 2do parcial 
+Luis Guzman 20209202
